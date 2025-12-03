@@ -21,4 +21,5 @@ with open('input.txt', 'r') as file:
     password2 += password1
 
 print(f"Part 1: {password1}")
+#TODO Part 2 is currently broken
 print(f"Part 2: {password2}")
