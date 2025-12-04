@@ -1,4 +1,4 @@
-with open('input.txt', 'r') as file:
+with open('2025/input.txt', 'r') as file:
     pos = 50
     password1 = 0
     password2 = 0

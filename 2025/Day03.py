@@ -1,4 +1,4 @@
-with open('input.txt', 'r') as file:
+with open('2025/input.txt', 'r') as file:
     joltage_output = 0
     for line in file:
         line = line.strip()

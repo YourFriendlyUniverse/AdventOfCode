@@ -24,7 +24,7 @@ def part_two(first: int, last: int):
                 break
     return invalid_in_range
 
-with open('input.txt', 'r') as file:
+with open('2025/input.txt', 'r') as file:
     total_part_one = 0
     total_part_two = 0
     id_ranges = file.readline().split(",")
